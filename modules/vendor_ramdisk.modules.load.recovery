@@ -16,8 +16,6 @@ timer-mediatek.ko
 sec-rng.ko
 device-apc-common.ko
 device-apc-mt6886.ko
-zsmalloc.ko
-zram.ko
 pinctrl-mtk-v2.ko
 pinctrl-mt6886.ko
 clk-common.ko

@@ -1,7 +1,5 @@
 focaltech_touch.ko
 dw9800v.ko
-zsmalloc.ko
-zram.ko
 spmi-mtk-mpu.ko
 mtk_et.ko
 gz_trusty_mod.ko
