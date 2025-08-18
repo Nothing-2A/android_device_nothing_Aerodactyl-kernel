@@ -183,8 +183,3 @@ aacrt6010_haptic.ko
 hardware_info.ko
 goodix_gh621x.ko
 board_id.ko
-nothing_task_meminfo.ko
-nothing_disk_usage.ko
-nothing_readahead_trace.ko
-nothing_task_info.ko
-nothing_value_check.ko
