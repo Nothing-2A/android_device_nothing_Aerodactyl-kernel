@@ -44,7 +44,6 @@ mtk_irtx_pwm.ko
 sspm_v3.ko
 reboot-mode.ko
 syscon-reboot-mode.ko
-trace_mmstat.ko
 mtk_battery_oc_throttling.ko
 mtk_low_battery_throttling.ko
 mtk_dynamic_loading_throttling.ko
